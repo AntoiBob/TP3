@@ -133,6 +133,9 @@ h2,h3
 	text-align: center;
 }
 
+#meri {
+    list-style-type: circle;
+}
 #footer
 {
 	clear: both;
